@@ -1,6 +1,5 @@
 <h1>Team Profile Generator</h1>
 
-[Deployed Site](https://damianfearon.github.io/Simple-Workday-Planner/)</br>
 [Github Repo](https://github.com/damianfearon/Team-Profile-Generator)</br>
 [HTML](https://github.com/damianfearon/Team-Profile-Generator/blob/main/output/team.html)</br>
 
