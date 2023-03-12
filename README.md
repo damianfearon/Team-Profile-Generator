@@ -2,9 +2,8 @@
 
 [Deployed Site](https://damianfearon.github.io/Simple-Workday-Planner/)</br>
 [Github Repo](https://github.com/damianfearon/Team-Profile-Generator)</br>
-[HTML](https://github.com/damianfearon/weather-dashboard/blob/main/index.html)</br>
-[JS](https://github.com/damianfearon/weather-dashboard/blob/main/assets/js/script.js)</br>
-[CSS](https://github.com/damianfearon/weather-dashboard/blob/main/assets/css/styles.css)</br>
+[HTML](https://github.com/damianfearon/Team-Profile-Generator/blob/main/output/team.html)</br>
+
 
 <h3>Screenshot</h3>
  <h3> Preview of the Team Profile Generator </h3>
