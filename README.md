@@ -6,6 +6,12 @@
 [JS](https://github.com/damianfearon/weather-dashboard/blob/main/assets/js/script.js)</br>
 [CSS](https://github.com/damianfearon/weather-dashboard/blob/main/assets/css/styles.css)</br>
 
+<h3>Screenshot</h3>
+ <h3> Preview of the Team Profile Generator </h3>
+ <img src="./assets/myteam.png" alt="myteam" width="400"/> 
+ </br>
+ </br>
+
 
 <h2>Team Profile Generator </h2> 
 <br> Your task is to take the given starter code and convert it into a working Node.js command-line application. This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. You have been provided with tests, so make sure every part of your code passes each provided test. </br>
@@ -76,4 +82,3 @@ You are requiired to submit the following for review:
 
 
 
-<h3>Screenshot</h3>
